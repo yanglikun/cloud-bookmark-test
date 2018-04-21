@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CloudBookmarkManager">
+    <CloudBookmark url="file://$PROJECT_DIR$/src/com/github/yanglikun/cloudbookmark/OrderService.java" description="下单-start" line="4" />
+    <CloudBookmark url="file://$PROJECT_DIR$/src/com/github/yanglikun/cloudbookmark/PayService.java" description="支付-end" line="9" />
+  </component>
+</project>
